@@ -2,6 +2,7 @@
 
 ## Introduction
 
+The WTH POC demonstrated how to implement a system with C++/C/Python.
 The WTH is a system to automatically generate events for the Windows sample such as PE file, MS Word, batch files and so on.
 Instead of patching the Windows API, the core module "[minidbg.exe](./cloudscan/core/README.md)" simulates the debugger to install break points and monitors certain APIs. The API list can be defined by the configuration.
 

@@ -43,9 +43,8 @@ The WTH needs run under x64 Windows OS. Either create an Windows instance in GCP
 
 ## POC
 
-The POC [website](https://35.203.182.93/sample) can only last for two months.
-
-The interface is simple one which only support the file upload.
+The POC [website](https://35.203.182.93/sample) can only last for two months and can support very limited [rules](https://github.com/ryu0886/cloudscan/blob/main/core/analysis.py#L108)
+The interface is simple one which supports the file upload.
 
 <br>
 <table>

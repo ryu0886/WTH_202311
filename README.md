@@ -44,6 +44,17 @@ The WTH needs run under x64 Windows OS. Either create an Windows instance in GCP
 ## POC
 
 The POC [website](https://35.203.182.93/sample) can only last for two months.
+
+The interface is simple one which only support the file upload.
+
+<br>
+<table>
+    <td>
+<img width="343" alt="image" src="https://github.com/ryu0886/WTH_202311/assets/38020822/a2eed572-fa3b-495e-8991-3b48ccad5e45">
+    </td>
+</table>
+<br>
+
 When submitting a testing [sample](https://www.virustotal.com/gui/file-analysis/ZGYxZDhhNWQ1OWYxYTVjNGNhZDU0N2U1NDA4NzI1ZGI6MTcxMjA3MDY2NA==), we can get the following output.
 ```
 {
